@@ -96,7 +96,7 @@ HTML = '''
     {% if uid %}
     <div class="result">Post UID: {{ uid }}</div>
     {% endif %}
-    <div class="footer">2025 Code by Alex Khan</div>
+    <div class="footer">2025 Code by HASSAN X FAIIZU</div>
   </div>
 </body>
 </html>
